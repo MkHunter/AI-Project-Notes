@@ -177,7 +177,7 @@ Generaciones y soluciones para N=50, Generaciones = 1000, Población = 3000.
 
 ![data/Untitled%2023.png](data/Untitled%2023.png)
 
-## 3.1 (Clasificación del dataset Iris usando la Red Neuronal básica) [/neural_networks/simple-neural-network/Iris_Perceptron.ipynb]
+## 3.1 [Clasificación del dataset Iris usando la Red Neuronal básica] (/neural_networks/simple-neural-network/Iris_Perceptron.ipynb)
 
 [Iris Dataset](https://www.kaggle.com/uciml/iris).
 
