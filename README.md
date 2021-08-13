@@ -131,7 +131,7 @@ Ejecución Baja California - Durango
 
 Resultado
 
-[data/BC-Durango.mp4](data/BC-Durango.mp4)
+![data/BC-Durango.mp4](data/BC-Durango.gif)
 
 Recorrido Baja California - Durango
 
@@ -143,7 +143,7 @@ Ejecución Baja California - Nuevo Leon
 
 Resultado
 
-[data/BC-Nuevo-Leon.mp4](data/BC-Nuevo-Leon.mp4)
+![data/BC-Nuevo-Leon.mp4](data/BC-Nuevo-Leon.gif)
 
 Recorrido Baja California - Nuevo Leon
 
